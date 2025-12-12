@@ -4,7 +4,7 @@ https://hivadi-dev.github.io/slider2/
 
 - Developed by hiva dargazani
 
-- Created - 2025/11/14
+- Created - 2025/12/12
 
 - Technologies Used - Html , css , js 
 
