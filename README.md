@@ -1,6 +1,6 @@
 # slider
 ![Image](https://github.com/user-attachments/assets/61256cd5-1742-43c2-8d36-9cfe134b7e7a)
-
+https://hivadi-dev.github.io/slider2/
 
 - Developed by hiva dargazani
 
